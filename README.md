@@ -19,7 +19,7 @@ I work with machine learning and AI engineering. I enjoy building practical AI s
 
 My current focus is NLP, retrieval systems, hallucination detection, and Python-based ML services. In my projects, I try to pay attention not only to the model itself, but also to solution quality: metrics, code structure, APIs, data storage, and usability. I’m also interested in improving model quality and making ML solutions more reliable on real-world data.
 
-My project experience includes hackathon solutions, team projects and personal ML systems. I try to design projects so they are not only model experiments, but complete engineering solutions with clear structure, reproducible setup, measurable results and understandable interfaces.
+My project experience includes hackathon solutions, [team projects](https://github.com/Ultramind-67) and personal ML systems. I try to design projects so they are not only model experiments, but complete engineering solutions with clear structure, reproducible setup, measurable results and understandable interfaces.
 
 ---
 

@@ -28,6 +28,7 @@
 ### Языки программирования
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Machine learning и NLP
@@ -70,6 +71,7 @@
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge)
 ![Semgrep](https://img.shields.io/badge/Semgrep-FF4A00?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge)
 ![ARM64](https://img.shields.io/badge/ARM64-0091BD?style=for-the-badge&logo=arm&logoColor=white)
